@@ -87,13 +87,13 @@
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
   right: -4px;
   color: #FFF;
-  font-size: 30px;
+  font-size: 20px;
   line-height: 1.4
 }
 
 @media only screen and (max-device-width: 1900px) {
   .help-tip p {
-    font-size: 30px
+    font-size: 20px
   }
 }
 

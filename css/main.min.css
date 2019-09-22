@@ -65,6 +65,26 @@ body {
   height: 70px
 }
 
+@media only screen and (max-device-width: 1900px) {
+  .menu img {
+    width: 2em;
+    width: 2em;
+  }
+  .search img {
+    width: 2em;
+    width: 2em;
+  }
+  .settings img {
+    width: 2em;
+    width: 2em;
+  }
+  .diceroller img {
+    width: 2em;
+    width: 2em;
+  }
+
+}
+
 .title {
   flex: 2 2 50%;
   align-self: center
